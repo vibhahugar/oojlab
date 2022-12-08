@@ -16,7 +16,7 @@ super(x,y);
 }
 void printArea()
 {
-  System.out.println("Area of rectangle is" +(a*b));
+  System.out.println("Area of rectangle is " +(a*b));
 }
 }
 
@@ -27,7 +27,7 @@ super(x,y);
 }
 void printArea()
 {
-  System.out.println("Area of triangle is" +(0.5*a*b));
+  System.out.println("Area of triangle is " +(0.5*a*b));
 }
 }
 
@@ -38,7 +38,7 @@ super(x,y);
 }
 void printArea()
 {
-  System.out.println("Area of circle is" +(3.14*a*a));
+  System.out.println("Area of circle is " +(3.14*a*a));
 }
 }
 
